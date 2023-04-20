@@ -902,7 +902,7 @@ a:focus {
     display: flex;
     align-items: center;
     justify-content: center;
-    font-size: 45px;
+    font-size: 20px;
     font-weight: 100;
 }
 
@@ -912,7 +912,10 @@ a:focus {
     box-shadow: inset 0 0 0 0 #4270ee;
     border-color: #4270ee;
 }
-
+a#linkagetag {
+background: #ececec;
+box-shadow: inset 1px 1px 0px 50px #ffffff;
+}
 
 /*******************************/
 /********* Banner CSS **********/
