@@ -1637,3 +1637,22 @@ box-shadow: inset 1px 1px 0px 50px #ffffff;
     }
     }
     
+
+    .modal-dialog {
+    max-width: 1300px !important;
+    }
+
+    .centerizeImg {
+        width: 100% !important;
+        max-width: 1000px !important;
+        display: block !important;
+        margin: 20px auto !important;
+        position: unset !important;
+        height: auto !important;
+        object-fit: none !important;
+        transform: scale(1.1); 
+        transition: .5s;
+}
+
+    
+
